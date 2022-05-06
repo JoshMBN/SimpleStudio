@@ -6,7 +6,7 @@ namespace SimpleSleuth
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Ayyyyy Baybeeeeee!");
         }
     }
 }
