@@ -1,0 +1,10 @@
+Inventory Array - static public string[] Inventory;
+
+INTRO - 
+	"You enter the dank, humid cave on your journey into the unknown.
+	Hunting for the lost treasure of Asmongold, this cave was the last
+	place on your map that you hadn't checked yet. Hopefully somewhere
+	deep within these ruins is what you seek."
+	
+	"You walk deeper through the entrance and the light is starting to
+	dim as the cave opening disappers behind you."
