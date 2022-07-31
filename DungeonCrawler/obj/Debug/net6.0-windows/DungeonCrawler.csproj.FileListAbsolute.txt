@@ -22,7 +22,6 @@ C:\SimpleStudio\DungeonCrawler\bin\Debug\net6.0-windows\DungeonCrawler.runtimeco
 C:\SimpleStudio\DungeonCrawler\bin\Debug\net6.0-windows\DungeonCrawler.dll
 C:\SimpleStudio\DungeonCrawler\bin\Debug\net6.0-windows\DungeonCrawler.pdb
 C:\SimpleStudio\DungeonCrawler\obj\Debug\net6.0-windows\DungeonCrawler.csproj.AssemblyReference.cache
-C:\SimpleStudio\DungeonCrawler\obj\Debug\net6.0-windows\DungeonCrawler.Form1.resources
 C:\SimpleStudio\DungeonCrawler\obj\Debug\net6.0-windows\DungeonCrawler.Properties.Resources.resources
 C:\SimpleStudio\DungeonCrawler\obj\Debug\net6.0-windows\DungeonCrawler.csproj.GenerateResource.cache
 C:\SimpleStudio\DungeonCrawler\obj\Debug\net6.0-windows\DungeonCrawler.GeneratedMSBuildEditorConfig.editorconfig
@@ -34,3 +33,5 @@ C:\SimpleStudio\DungeonCrawler\obj\Debug\net6.0-windows\refint\DungeonCrawler.dl
 C:\SimpleStudio\DungeonCrawler\obj\Debug\net6.0-windows\DungeonCrawler.pdb
 C:\SimpleStudio\DungeonCrawler\obj\Debug\net6.0-windows\DungeonCrawler.genruntimeconfig.cache
 C:\SimpleStudio\DungeonCrawler\obj\Debug\net6.0-windows\ref\DungeonCrawler.dll
+C:\SimpleStudio\DungeonCrawler\obj\Debug\net6.0-windows\DungeonCrawler.Form2.resources
+C:\SimpleStudio\DungeonCrawler\obj\Debug\net6.0-windows\DungeonCrawler.Menu.resources

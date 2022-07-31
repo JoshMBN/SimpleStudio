@@ -1,6 +1,6 @@
 ﻿namespace DungeonCrawler
 {
-    partial class Form1
+    partial class Menu
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,36 +28,38 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.title = new System.Windows.Forms.PictureBox();
             this.playButton = new System.Windows.Forms.PictureBox();
             this.loadButton = new System.Windows.Forms.PictureBox();
             this.optionsButton = new System.Windows.Forms.PictureBox();
             this.exitButton = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.panel1 = new System.Windows.Forms.Panel();
+            ((System.ComponentModel.ISupportInitialize)(this.title)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.playButton)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.loadButton)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.optionsButton)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.exitButton)).BeginInit();
+            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // pictureBox1
+            // title
             // 
-            this.pictureBox1.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox1.Image = global::DungeonCrawler.Properties.Resources.splashTitle;
-            this.pictureBox1.Location = new System.Drawing.Point(10, 9);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(764, 113);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
+            this.title.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.title.BackColor = System.Drawing.Color.Transparent;
+            this.title.Image = global::DungeonCrawler.Properties.Resources.splashTitle;
+            this.title.Location = new System.Drawing.Point(12, 11);
+            this.title.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.title.Name = "title";
+            this.title.Size = new System.Drawing.Size(764, 113);
+            this.title.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.title.TabIndex = 0;
+            this.title.TabStop = false;
             // 
             // playButton
             // 
             this.playButton.BackColor = System.Drawing.Color.Transparent;
             this.playButton.Image = global::DungeonCrawler.Properties.Resources.playButton;
-            this.playButton.Location = new System.Drawing.Point(300, 173);
+            this.playButton.Location = new System.Drawing.Point(300, 172);
             this.playButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.playButton.Name = "playButton";
             this.playButton.Size = new System.Drawing.Size(182, 70);
@@ -72,7 +74,7 @@
             // 
             this.loadButton.BackColor = System.Drawing.Color.Transparent;
             this.loadButton.Image = global::DungeonCrawler.Properties.Resources.loadButton;
-            this.loadButton.Location = new System.Drawing.Point(300, 258);
+            this.loadButton.Location = new System.Drawing.Point(300, 256);
             this.loadButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.loadButton.Name = "loadButton";
             this.loadButton.Size = new System.Drawing.Size(182, 70);
@@ -87,7 +89,7 @@
             // 
             this.optionsButton.BackColor = System.Drawing.Color.Transparent;
             this.optionsButton.Image = global::DungeonCrawler.Properties.Resources.optionsButton;
-            this.optionsButton.Location = new System.Drawing.Point(248, 346);
+            this.optionsButton.Location = new System.Drawing.Point(251, 342);
             this.optionsButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.optionsButton.Name = "optionsButton";
             this.optionsButton.Size = new System.Drawing.Size(279, 70);
@@ -102,7 +104,7 @@
             // 
             this.exitButton.BackColor = System.Drawing.Color.Transparent;
             this.exitButton.Image = global::DungeonCrawler.Properties.Resources.exitButton;
-            this.exitButton.Location = new System.Drawing.Point(300, 436);
+            this.exitButton.Location = new System.Drawing.Point(300, 437);
             this.exitButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.exitButton.Name = "exitButton";
             this.exitButton.Size = new System.Drawing.Size(182, 70);
@@ -113,36 +115,50 @@
             this.exitButton.MouseLeave += new System.EventHandler(this.exitButton_MouseLeave);
             this.exitButton.MouseHover += new System.EventHandler(this.exitButton_MouseHover);
             // 
-            // Form1
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.Transparent;
+            this.panel1.Controls.Add(this.exitButton);
+            this.panel1.Controls.Add(this.title);
+            this.panel1.Controls.Add(this.optionsButton);
+            this.panel1.Controls.Add(this.playButton);
+            this.panel1.Controls.Add(this.loadButton);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(789, 554);
+            this.panel1.TabIndex = 5;
+            this.panel1.Visible = false;
+            // 
+            // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::DungeonCrawler.Properties.Resources.background;
             this.ClientSize = new System.Drawing.Size(789, 554);
-            this.Controls.Add(this.exitButton);
-            this.Controls.Add(this.optionsButton);
-            this.Controls.Add(this.loadButton);
-            this.Controls.Add(this.playButton);
-            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.panel1);
             this.DoubleBuffered = true;
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.Name = "Form1";
+            this.MaximizeBox = false;
+            this.Name = "Menu";
             this.Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.title)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.playButton)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.loadButton)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.optionsButton)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.exitButton)).EndInit();
+            this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private PictureBox pictureBox1;
+        private PictureBox title;
         private PictureBox playButton;
         private PictureBox loadButton;
         private PictureBox optionsButton;
         private PictureBox exitButton;
+        private Panel panel1;
     }
 }

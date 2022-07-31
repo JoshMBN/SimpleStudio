@@ -1,11 +1,11 @@
 namespace DungeonCrawler
 {
-    public partial class Form1 : Form
+    public partial class Menu : Form
     {
-        public Form1()
+        public Menu()
         {
             InitializeComponent();
-           
+           panel1.Visible = true;
         }
 
         private void pictureBox2_MouseHover(object sender, EventArgs e)
@@ -50,6 +50,9 @@ namespace DungeonCrawler
 
         private void playButton_Click(object sender, EventArgs e)
         {
+            this.Hide();
+            Form2 form2 = new Form2();
+            form2.ShowDialog();
 
         }
 
