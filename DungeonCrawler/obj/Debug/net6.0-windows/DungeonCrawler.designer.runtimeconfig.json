@@ -12,7 +12,7 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Razorback\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\joshb\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\Razorback\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
