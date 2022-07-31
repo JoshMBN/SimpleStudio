@@ -121,6 +121,9 @@
   <data name="loadButton" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\loadButton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="exitHover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exitHover1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="backgroundimg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\backgroundimg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -130,8 +133,17 @@
   <data name="background" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\background.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="optionsHover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\optionsHover1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="splashTitle" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\splashTitle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="playHover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\playHover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exitButton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exitButton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="deeperDungeondsTitle" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\deeperDungeondsTitle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -139,7 +151,7 @@
   <data name="optionsButton" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\optionsButton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="exitButton" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\exitButton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="loadHover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\loadHover1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
