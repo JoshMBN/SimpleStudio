@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O0NYaqAxktxh9K+Sq/UtnSSUUY9y6tNXWNkgMEb6xHmiwBl9I1KgE76k5hKmH68F/7qMl7K9imo31iKLBvzbOw==",
+  "dgSpecHash": "P6NDZTIRRBwlSjI6ZYBNw78WoF/hJ6NBcDfxwFCssL1DGV+oSEOX+cEEu1j3WnfZHcbslY4INhOg34JGbm4/Yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joshb\\Desktop\\SimpleStudio\\DungeonCrawler\\DungeonCrawler.csproj",
+  "projectFilePath": "C:\\SimpleStudio\\DungeonCrawler\\DungeonCrawler.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

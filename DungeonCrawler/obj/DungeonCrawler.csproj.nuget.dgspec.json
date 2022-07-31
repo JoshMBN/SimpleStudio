@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joshb\\Desktop\\SimpleStudio\\DungeonCrawler\\DungeonCrawler.csproj": {}
+    "C:\\SimpleStudio\\DungeonCrawler\\DungeonCrawler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joshb\\Desktop\\SimpleStudio\\DungeonCrawler\\DungeonCrawler.csproj": {
+    "C:\\SimpleStudio\\DungeonCrawler\\DungeonCrawler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joshb\\Desktop\\SimpleStudio\\DungeonCrawler\\DungeonCrawler.csproj",
+        "projectUniqueName": "C:\\SimpleStudio\\DungeonCrawler\\DungeonCrawler.csproj",
         "projectName": "DungeonCrawler",
-        "projectPath": "C:\\Users\\joshb\\Desktop\\SimpleStudio\\DungeonCrawler\\DungeonCrawler.csproj",
-        "packagesPath": "C:\\Users\\joshb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joshb\\Desktop\\SimpleStudio\\DungeonCrawler\\obj\\",
+        "projectPath": "C:\\SimpleStudio\\DungeonCrawler\\DungeonCrawler.csproj",
+        "packagesPath": "C:\\Users\\Razorback\\.nuget\\packages\\",
+        "outputPath": "C:\\SimpleStudio\\DungeonCrawler\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\joshb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Razorback\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +61,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
