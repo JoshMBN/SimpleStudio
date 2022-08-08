@@ -1,0 +1,15 @@
+﻿Wooden Sword
+2
+5
+Iron Sword
+6
+30
+Gold Sword
+8
+45
+Diamond Sword
+14
+250
+The Obsidian Blade
+50
+5000

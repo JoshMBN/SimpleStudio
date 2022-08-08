@@ -1,0 +1,15 @@
+﻿Potion of Minor Healing
+2
+5
+Potion of Major Healing
+6
+30
+Potion of Minor Damage
+8
+45
+Potion of Major Damage
+14
+250
+Potion of Insta-Heal
+50
+5000

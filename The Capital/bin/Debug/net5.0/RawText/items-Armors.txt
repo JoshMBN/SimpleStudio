@@ -1,0 +1,15 @@
+﻿Leather Armor
+5
+10
+Iron Armor
+10
+35
+Gold Armor
+5
+50
+Diamond Armor
+20
+250
+The Obsidian Plate
+40
+5000
