@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Razorback\\.nuget\\packages\\": {},
+    "C:\\Users\\brenjm3\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SimpleStudio\\DungeonCrawler\\DungeonCrawler.csproj",
+      "projectUniqueName": "H:\\SimpleStudio\\DungeonCrawler\\DungeonCrawler.csproj",
       "projectName": "DungeonCrawler",
-      "projectPath": "C:\\SimpleStudio\\DungeonCrawler\\DungeonCrawler.csproj",
-      "packagesPath": "C:\\Users\\Razorback\\.nuget\\packages\\",
-      "outputPath": "C:\\SimpleStudio\\DungeonCrawler\\obj\\",
+      "projectPath": "H:\\SimpleStudio\\DungeonCrawler\\DungeonCrawler.csproj",
+      "packagesPath": "C:\\Users\\brenjm3\\.nuget\\packages\\",
+      "outputPath": "H:\\SimpleStudio\\DungeonCrawler\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Razorback\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\brenjm3\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -68,7 +68,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
