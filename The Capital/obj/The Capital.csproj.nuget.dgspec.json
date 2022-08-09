@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SimpleStudio\\The Capital\\The Capital.csproj": {}
+    "H:\\SimpleStudio\\The Capital\\The Capital.csproj": {}
   },
   "projects": {
-    "C:\\SimpleStudio\\The Capital\\The Capital.csproj": {
+    "H:\\SimpleStudio\\The Capital\\The Capital.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SimpleStudio\\The Capital\\The Capital.csproj",
+        "projectUniqueName": "H:\\SimpleStudio\\The Capital\\The Capital.csproj",
         "projectName": "The Capital",
-        "projectPath": "C:\\SimpleStudio\\The Capital\\The Capital.csproj",
-        "packagesPath": "C:\\Users\\Razorback\\.nuget\\packages\\",
-        "outputPath": "C:\\SimpleStudio\\The Capital\\obj\\",
+        "projectPath": "H:\\SimpleStudio\\The Capital\\The Capital.csproj",
+        "packagesPath": "C:\\Users\\brenjm3\\.nuget\\packages\\",
+        "outputPath": "H:\\SimpleStudio\\The Capital\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Razorback\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brenjm3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
