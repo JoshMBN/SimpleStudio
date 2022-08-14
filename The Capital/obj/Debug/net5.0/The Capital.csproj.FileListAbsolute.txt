@@ -1,0 +1,16 @@
+C:\SimpleStudio\The Capital\bin\Debug\net5.0\The Capital.exe
+C:\SimpleStudio\The Capital\bin\Debug\net5.0\The Capital.deps.json
+C:\SimpleStudio\The Capital\bin\Debug\net5.0\The Capital.runtimeconfig.json
+C:\SimpleStudio\The Capital\bin\Debug\net5.0\The Capital.runtimeconfig.dev.json
+C:\SimpleStudio\The Capital\bin\Debug\net5.0\The Capital.dll
+C:\SimpleStudio\The Capital\bin\Debug\net5.0\The Capital.pdb
+C:\SimpleStudio\The Capital\obj\Debug\net5.0\The Capital.csproj.AssemblyReference.cache
+C:\SimpleStudio\The Capital\obj\Debug\net5.0\The Capital.GeneratedMSBuildEditorConfig.editorconfig
+C:\SimpleStudio\The Capital\obj\Debug\net5.0\The Capital.AssemblyInfoInputs.cache
+C:\SimpleStudio\The Capital\obj\Debug\net5.0\The Capital.AssemblyInfo.cs
+C:\SimpleStudio\The Capital\obj\Debug\net5.0\The Capital.csproj.CoreCompileInputs.cache
+C:\SimpleStudio\The Capital\obj\Debug\net5.0\The Capital.dll
+C:\SimpleStudio\The Capital\obj\Debug\net5.0\refint\The Capital.dll
+C:\SimpleStudio\The Capital\obj\Debug\net5.0\The Capital.pdb
+C:\SimpleStudio\The Capital\obj\Debug\net5.0\The Capital.genruntimeconfig.cache
+C:\SimpleStudio\The Capital\obj\Debug\net5.0\ref\The Capital.dll
